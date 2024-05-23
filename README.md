@@ -3,7 +3,7 @@
 
 Projeto com o objetivo de criar um eBook digital utilizando as facilidades das ferramentas de IA. Todos os prompts estão listados abaixo.
 
-📖 [Clique para ler]
+📖 [Clique para ler](https://github.com/sbdaniely/exercise-dio/blob/main/Primeiros%20passos%20em%20html%20-%20Daniely%20Barroso%20-%20DIO.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
