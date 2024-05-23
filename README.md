@@ -24,5 +24,10 @@ explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemp
 
 Conteúdo gerado via ChatGPT
 
+## 👋 Me encontre também
+
+[GitHub](https://github.com/sbdaniely) | [Linkedin](www.linkedin.com/in/daniely-barroso)
+
+
 
 
